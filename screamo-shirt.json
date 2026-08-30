@@ -1,0 +1,12 @@
+{
+  "id": "SCREAMO-SHIRT",
+  "name": "Screamo Shirt",
+  "price": 25.00,
+  "url": "https://dogseesgod.com/screamo/",
+  "customFields": [
+    {
+      "name": "Size",
+      "options": "Small|Medium|Large|X-Large"
+    }
+  ]
+}

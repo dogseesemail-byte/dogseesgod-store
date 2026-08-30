@@ -1,0 +1,12 @@
+{
+  "id": "CAMPUS-HOODIE",
+  "name": "Campus Hoodie",
+  "price": 35.00,
+  "url": "https://dogseesgod.com/campushoodie/",
+  "customFields": [
+    {
+      "name": "Size",
+      "options": "Small|Medium|Large|X-Large"
+    }
+  ]
+}

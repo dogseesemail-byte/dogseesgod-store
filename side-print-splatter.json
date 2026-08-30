@@ -1,0 +1,12 @@
+{
+  "id": "SIDE-PRINT-SPLATTER-TEE",
+  "name": "Side Print Splatter Tee",
+  "price": 20.00,
+  "url": "https://dogseesgod.com/sideprintsplatter/",
+  "customFields": [
+    {
+      "name": "Size",
+      "options": "Small|Medium|Large|X-Large"
+    }
+  ]
+}
