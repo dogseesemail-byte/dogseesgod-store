@@ -4,6 +4,7 @@
   "price": 35.00,
   "url": "https://dogseesgod.com/campushoodie/",
   "image": "https://i-p.rmcdn.net/6a8f8e0e0649b76e6acd2a86/6518105/image-a1eba94c-dd98-4751-b829-94823a56ca82.png?w=999&e=webp&nll=true&cX=1&cY=57&cW=1071&cH=959",
+  "dimensions": { "weight": 300 },
   "customFields": [
     {
       "name": "Size",
