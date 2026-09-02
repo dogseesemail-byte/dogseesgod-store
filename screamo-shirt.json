@@ -4,11 +4,11 @@
   "price": 25.00,
   "url": "https://dogseesgod.com/screamo/",
   "image": "https://i-p.rmcdn.net/6a8f8e0e0649b76e6acd2a86/6518105/image-e88a8424-90e0-4815-ac61-effeb0d3e28b.png?w=1001&e=webp&nll=true&cX=0&cY=56&cW=1073&cH=958",
-"dimensions": {
+  "dimensions": {
     "weight": 170,
     "length": 33,
     "width": 25,
-    "height": 6
+    "height": 3
   },
   "customFields": [
     {
